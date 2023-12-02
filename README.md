@@ -19,8 +19,8 @@ La existencia de estos apuntos y ejercicios apuntes no serían posible sin el ma
 * La web de [César Guiró] (https://cesguiro.es/doku.php?id=clase:ia:saa:start)
 
 
-Así como, todo los aprendido durante los dos cursos de formación que nos ha ofrecido la Xunta de Galicia al profesorado de FP de estos cursos de especialización. Concretamente los de Sistemas de Aprendizaje Automático fueron impartidos por Alfonso Antolínez en el curso 2021-22 y por personal del CESGA en el curso 2022-23, mayormente por el excelente investigador Andrés Gómez Tato.
+Así como, todo los aprendido durante los dos cursos de formación que nos ha ofrecido la Xunta de Galicia al profesorado de FP de estos cursos de especialización. Concretamente los de Sistemas de Aprendizaje Automático fueron impartidos por **Alfonso Antolínez** en el curso 2021-22 y por personal del CESGA en el curso 2022-23, mayormente por el excelente investigador **Andrés Gómez Tato**.
 
-Si tuviese que recomendar bibliografía al respecto, me quedaría con muy ameno libro sobre RRNN del profesor de la UPC Jordi Torres [Python Deep Learning](https://torres.ai/python-deep-learning) y la completísima biblia del Machine Learning "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurelien Geron.
+Si tuviese que recomendar bibliografía al respecto, me quedaría con muy ameno libro sobre RRNN del profesor de la UPC **Jordi Torres** [Python Deep Learning](https://torres.ai/python-deep-learning) y la completísima biblia del Machine Learning "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de **Aurelien Geron**.
 
 Y, sin olvidarme, de todos los recursos online disponibles sobre Machine learning que miles de usuarios han publicado de forma altruista online.
