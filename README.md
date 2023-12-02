@@ -16,10 +16,10 @@ La existencia de estos apuntos y ejercicios apuntes no serían posible sin el ma
 * [El brillante y reconocidísimo Aurelien Geron](https://github.com/ageron/handson-ml2) aunque en ocasiones sus excelentes materiales resulten terriblemente complejos para nuestro alumnado de FP.
 * Todo lo que mis alumnos y yo hemos aprendido en la plataforma [DataCamp](https://www.datacamp.com/) gracias a sus licencias educativas 
 * La web de Juan Ignacio Bagnato [Aprende machine learning](https://www.aprendemachinelearning.com/)
-* La web de [César Guiró] (https://cesguiro.es/doku.php?id=clase:ia:saa:start)
+* La web de [César Guiró](https://cesguiro.es/doku.php?id=clase:ia:saa:start)
 
 
-Así como, todo los aprendido durante los dos cursos de formación que nos ha ofrecido la Xunta de Galicia al profesorado de FP de estos cursos de especialización. Concretamente los de Sistemas de Aprendizaje Automático fueron impartidos por **Alfonso Antolínez** en el curso 2021-22 y por personal del CESGA en el curso 2022-23, mayormente por el excelente investigador **Andrés Gómez Tato**.
+Así como, todo lo aprendido durante los dos cursos de formación que nos ha ofrecido la Xunta de Galicia al profesorado de FP de estos cursos de especialización. Concretamente los de Sistemas de Aprendizaje Automático fueron impartidos por **Alfonso Antolínez** en el curso 2021-22 y por personal del CESGA en el curso 2022-23, mayormente por el excelente investigador **Andrés Gómez Tato**.
 
 Si tuviese que recomendar bibliografía al respecto, me quedaría con muy ameno libro sobre RRNN del profesor de la UPC **Jordi Torres** [Python Deep Learning](https://torres.ai/python-deep-learning) y la completísima biblia del Machine Learning "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de **Aurelien Geron**.
 
