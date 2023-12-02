@@ -1,6 +1,6 @@
 # Curso de Especialización en IA y Big Data
-# MP. Sistemas de Aprendizaje Automático
-# IES de Teis (Vigo), profesora Cristina Gómez Alonso
+## MP. Sistemas de Aprendizaje Automático
+### IES de Teis (Vigo), profesora Cristina Gómez Alonso
 
 Estos son los materiales creados durante los cursos 2021-22 y 2022-23 para los alumnos del Módulo Profesional de Machine Learning dentro del CE de IA y Big Data en el IES de Teis (Vigo).
 
